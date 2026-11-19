@@ -17,7 +17,7 @@ I am Junteng Liu, a first-year PhD candidate in the HKUST NLP Group at the Hong 
 - **Undergraduate degree:** B.Eng. (2020–2024), Shanghai Jiao Tong University
 - **Research focus:** Natural language processing and machine learning
 
-## Academic Background
+## Academic Background and Education
 
 ### Hong Kong University of Science and Technology (HKUST)
 **Ph.D. in Computer Science** (2024–Present)
@@ -63,7 +63,7 @@ As a PhD candidate in the HKUST NLP Group (2024–Present), I also conduct resea
    Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He  
    *Co-author. Published at NeurIPS 2023.*
 
-The same publication list is also available on the [Publications subpage](/publications/).
+The same list is also available on the [Publications subpage]({{ site.baseurl }}/publications/).
 
 ## Skills and Research Interests
 
