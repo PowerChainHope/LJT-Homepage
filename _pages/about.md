@@ -28,7 +28,7 @@ My research focuses on natural language processing and machine learning, with in
 - **Research Intern**, Shanghai AI Lab, June 2023–December 2023
   - Advisor: Prof. Yu Cheng
 
-## Skills
+## Skills & Research Interests
 
 - Natural Language Processing
 - Machine Learning
